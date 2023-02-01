@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8fafa25-68e5-4185-bb02-48a27a46fee7" name="Changes" comment="" />
+    <list default="true" id="b8fafa25-68e5-4185-bb02-48a27a46fee7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SRevise/LopHoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SRevise/LopHoc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SRevise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SRevise/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SRevise/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SRevise/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session1/Buoi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session1/Buoi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/Chua_Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/Chua_Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/Chua_TamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/Chua_TamGiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/Fraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/Fraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/HotGirl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/HotGirl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session2/TamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session2/TamGiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session3/Chua_HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session3/Chua_HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session3/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session3/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session3/Session3Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session3/Session3Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session4/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session4/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session4/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session4/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session4/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/NuocNgoai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/NuocNgoai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/Tiger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/Tiger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session5/VietNam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session5/VietNam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/American.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/American.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/Asian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/Asian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/PhoneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/PhoneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Session6/Session6Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session6/Session6Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2L2JatncYUia4fHr3sE6wFxpFUz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,9 +70,35 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Projects-JP1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Session1.Main" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Session1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,7 +107,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675063312788</updated>
+      <workItem from="1675063313871" duration="129000" />
+      <workItem from="1675063504461" duration="4499000" />
+      <workItem from="1675233545063" duration="315000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
