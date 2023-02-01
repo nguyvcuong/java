@@ -1,2 +1,4 @@
-package Session4;public class Phone {
+package Session4;
+
+public class Phone {
 }
